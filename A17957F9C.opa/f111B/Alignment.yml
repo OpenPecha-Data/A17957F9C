@@ -1,0 +1,83 @@
+segment_sources:
+  I4DD244E3:
+    type: origin_type
+    relation: translation
+    language: sa
+  I4121485A:
+    type: origin_type
+    relation: translation
+    language: sa
+  IFBC4A522:
+    type: origin_type
+    relation: translation
+    language: sa
+  IE200905A:
+    type: origin_type
+    relation: translation
+    language: sa
+  I04FFA754:
+    type: origin_type
+    relation: translation
+    language: zh
+  IEB3770B5:
+    type: origin_type
+    relation: translation
+    language: zh
+  I6E0AD656:
+    type: origin_type
+    relation: translation
+    language: zh
+  I00C010AC:
+    type: origin_type
+    relation: translation
+    language: zh
+  I4601A243:
+    type: origin_type
+    relation: translation
+    language: zh
+  IE177B169:
+    type: origin_type
+    relation: translation
+    language: zh
+  I52FB23BD:
+    type: origin_type
+    relation: translation
+    language: zh
+  I97F2F8D8:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5698B99B:
+    type: origin_type
+    relation: translation
+    language: bo
+  I420A7242:
+    type: origin_type
+    relation: translation
+    language: en
+  I2C44F49E:
+    type: origin_type
+    relation: translation
+    language: en
+  IA6B86E56:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  1994f244ef844436869d4dec9eef9b29:
+    I4DD244E3: 902a134c7c6541c08af72a557512f311
+    I4121485A: b7b3cfd72f354995a6645ef9920f782f
+    IFBC4A522: 48d31a7dd79e4b46a415c9a09c14989b
+    IE200905A: None
+    I04FFA754: b730cf5afc0947a6b9b2fde644ebdf02
+    IEB3770B5: a49d11eb819c47c78e9af26c3c6def5f
+    I6E0AD656: 8e1b225316834b12aa313f9212636a8f
+    I00C010AC: f10c314693e54b2ba182b0929d09d591
+    I4601A243: ea9857ffc6b34c1784f7831bcb4cf208
+    IE177B169: 01b4318bb6fc40f79328343c7b76e36e
+    I52FB23BD: f64431f0927940b2b54639b0b64d5483
+    I97F2F8D8: ec52ac9ba66c4b0d92588c9b8c05e5fc
+    I5698B99B: 93e75d8ed0a24c9580009f4385411983
+    I420A7242: f6253ad04e12424d97f8ed51e4ed7644
+    I2C44F49E: 5754afa534bf4df89946b0c9cd94e982
+    IA6B86E56: 087cb24ffb6142bba6d446c0e08773e2
